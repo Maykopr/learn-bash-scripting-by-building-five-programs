@@ -179,3 +179,4 @@ sleep 3
 ./countdown.sh 3
 ./countdown.sh 3
 __vsc_prompt_cmd_original
+./countdown.sh 1
