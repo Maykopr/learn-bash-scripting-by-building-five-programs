@@ -120,3 +120,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help test
 ./countdown.sh 5
+[[ 4 -le 5 ]]
