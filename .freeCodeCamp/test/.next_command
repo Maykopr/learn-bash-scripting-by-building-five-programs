@@ -182,3 +182,4 @@ __vsc_prompt_cmd_original
 ./countdown.sh 1
 help while
 ./countdown.sh 5
+touch bingo.sh
