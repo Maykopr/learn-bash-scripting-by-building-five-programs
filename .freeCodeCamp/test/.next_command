@@ -159,3 +159,7 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 [[ -a bad_file.txt ]]
+man test
+__vsc_prompt_cmd_original
+[[ -x bad_file.txt ]]
+[[ -x countdown.sh ]]
