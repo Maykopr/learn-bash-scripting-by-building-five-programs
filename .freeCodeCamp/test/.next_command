@@ -163,3 +163,4 @@ man test
 __vsc_prompt_cmd_original
 [[ -x bad_file.txt ]]
 [[ -x countdown.sh ]]
+help [[
